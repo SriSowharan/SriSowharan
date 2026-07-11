@@ -56,14 +56,6 @@
 - **Landslide Detection & Early Warning System** — AI + IoT sensor integration for environmental risk monitoring; findings published in *Migration Letters*.
 - **Reaching for Rainbows** — Survey design and data analysis converting qualitative feedback into actionable impact metrics for a non-profit.
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SriSowharan&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriSowharan&layout=compact" />
-</p>
 
 ---
 
