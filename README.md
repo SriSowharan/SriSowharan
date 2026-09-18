@@ -55,10 +55,6 @@ I'm a Business Analyst & Data Analyst with an AI/ML background. I hold a Postgra
 
 English (Professional) · Tamil (Native / Bilingual) · French (Elementary)
 
-## GitHub Stats
-
-![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriSowharan&show_icons=true&theme=default&hide_border=true)
-
 ---
 
 <p align="center"><i>Have a Business Analyst, Data Analyst, or BI role anywhere in Ontario? Let's talk.</i></p>
