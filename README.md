@@ -1,5 +1,5 @@
 <h1 align="center">Sri Krishnamurthy</h1>
-<p align="center"><b>Business Analyst · Data Analyst · BI Developer</b><br/>Belleville, Ontario — open to opportunities across Ontario</p>
+<p align="center"><b>Business Analyst · Data Analyst · BI Developer</b><br/>Open to opportunities across Ontario</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-palanisamy-krishnamurthy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
